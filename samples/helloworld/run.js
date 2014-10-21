@@ -1,2 +1,3 @@
 var bfrequire = require('../../node_modules/node-brainfuckex/').require;
-bfrequire('../../bt.bf')(['hw.tpl', 'Foo']);
+process.chdir('../../');
+bfrequire('bt.bf')(['samples/helloworld/hw.tpl', 'Foo', 'Bar']);
