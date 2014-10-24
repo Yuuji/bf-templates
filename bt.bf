@@ -108,7 +108,7 @@ Split the first argument (0x03 to 0x04 0x00):
 					<[-]<[-]++++<[-]++++<[-]+<+						no more char, end
 				]	
 				
-				>>>>[-]
+				>>>[-]
 			]<<<
 			<[-]>[-]
 		]
