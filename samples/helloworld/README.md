@@ -6,7 +6,7 @@ Simple sample for the {$X} output function
 hw.tpl
 ------
 
-The template, just simple:
+The template, just simple:<br />
     Hello World, {$1} {$2}
 
 It outputs "Hello World, " plus the first and the second argument
